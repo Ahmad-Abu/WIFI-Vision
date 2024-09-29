@@ -1,0 +1,649 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{40}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Adib, Hsu, Mao, Katabi, and Durand}{Adib
+  et~al\mbox{.}}{2015}]%
+        {RF-capture}
+\bibfield{author}{\bibinfo{person}{Fadel Adib}, \bibinfo{person}{Chen-Yu Hsu},
+  \bibinfo{person}{Hongzi Mao}, \bibinfo{person}{Dina Katabi}, {and}
+  \bibinfo{person}{Fr\'{e}do Durand}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Capturing the Human Figure through a Wall}.
+\newblock \bibinfo{journal}{\emph{ACM Trans. Graph.}} \bibinfo{volume}{34},
+  \bibinfo{number}{6}, Article \bibinfo{articleno}{219} (\bibinfo{date}{oct}
+  \bibinfo{year}{2015}), \bibinfo{numpages}{13}~pages.
+\newblock
+\showISSN{0730-0301}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2816795.2818072}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Adib, Kabelac, Katabi, and Miller}{Adib
+  et~al\mbox{.}}{2014}]%
+        {radar}
+\bibfield{author}{\bibinfo{person}{Fadel Adib}, \bibinfo{person}{Zach Kabelac},
+  \bibinfo{person}{Dina Katabi}, {and} \bibinfo{person}{Robert~C. Miller}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{3D Tracking via Body Radio Reflections}. In
+  \bibinfo{booktitle}{\emph{11th USENIX Symposium on Networked Systems Design
+  and Implementation (NSDI 14)}}. \bibinfo{publisher}{USENIX Association},
+  \bibinfo{address}{Seattle, WA}, \bibinfo{pages}{317--329}.
+\newblock
+\showISBNx{978-1-931971-09-6}
+\urldef\tempurl%
+\url{https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/adib}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Alldieck, Pons-Moll, Theobalt, and
+  Magnor}{Alldieck et~al\mbox{.}}{2019}]%
+        {tex2shape}
+\bibfield{author}{\bibinfo{person}{Thiemo Alldieck}, \bibinfo{person}{Gerard
+  Pons-Moll}, \bibinfo{person}{Christian Theobalt}, {and}
+  \bibinfo{person}{Marcus Magnor}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{Tex2Shape: Detailed Full Human Body Geometry From a
+  Single Image}.
+\newblock
+\newblock
+\showeprint[arxiv]{1904.08645}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Andriluka, Iqbal, Insafutdinov, Pishchulin,
+  Milan, Gall, and Schiele}{Andriluka et~al\mbox{.}}{2018}]%
+        {posetrack}
+\bibfield{author}{\bibinfo{person}{Mykhaylo Andriluka}, \bibinfo{person}{Umar
+  Iqbal}, \bibinfo{person}{Eldar Insafutdinov}, \bibinfo{person}{Leonid
+  Pishchulin}, \bibinfo{person}{Anton Milan}, \bibinfo{person}{Juergen Gall},
+  {and} \bibinfo{person}{Bernt Schiele}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{title}{PoseTrack: A Benchmark for Human Pose Estimation and
+  Tracking}.
+\newblock
+\newblock
+\showeprint[arxiv]{1710.10000}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{BASRI and Khadimi}{BASRI and Khadimi}{2016}]%
+        {BASRI2016}
+\bibfield{author}{\bibinfo{person}{Chaimaa BASRI} {and}
+  \bibinfo{person}{Ahmed~El Khadimi}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Survey on indoor localization system and recent
+  advances of WIFI fingerprinting technique}. In
+  \bibinfo{booktitle}{\emph{International Conference on Multimedia Computing
+  and Systems}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bristow, Valmadre, and Lucey}{Bristow
+  et~al\mbox{.}}{2015}]%
+        {bristow2015dense}
+\bibfield{author}{\bibinfo{person}{Hilton Bristow}, \bibinfo{person}{Jack
+  Valmadre}, {and} \bibinfo{person}{Simon Lucey}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \bibinfo{title}{Dense Semantic Correspondence where Every Pixel is a
+  Classifier}.
+\newblock
+\newblock
+\showeprint[arxiv]{1505.04143}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Cao, Hidalgo, Simon, Wei, and Sheikh}{Cao
+  et~al\mbox{.}}{2019}]%
+        {openpose}
+\bibfield{author}{\bibinfo{person}{Zhe Cao}, \bibinfo{person}{Gines Hidalgo},
+  \bibinfo{person}{Tomas Simon}, \bibinfo{person}{Shih-En Wei}, {and}
+  \bibinfo{person}{Yaser Sheikh}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{OpenPose: Realtime Multi-Person 2D Pose Estimation
+  using Part Affinity Fields}.
+\newblock
+\newblock
+\showeprint[arxiv]{1812.08008}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{G{\"{u}}ler, Neverova, and
+  Kokkinos}{G{\"{u}}ler et~al\mbox{.}}{2018}]%
+        {DensePose}
+\bibfield{author}{\bibinfo{person}{Riza~Alp G{\"{u}}ler},
+  \bibinfo{person}{Natalia Neverova}, {and} \bibinfo{person}{Iasonas
+  Kokkinos}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{DensePose: Dense Human Pose Estimation In The
+  Wild}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1802.00434}
+  (\bibinfo{year}{2018}).
+\newblock
+\showeprint[arXiv]{1802.00434}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1802.00434}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{He, Gkioxari, Doll{\'{a}}r, and Girshick}{He
+  et~al\mbox{.}}{2017}]%
+        {Mask-RCNN}
+\bibfield{author}{\bibinfo{person}{Kaiming He}, \bibinfo{person}{Georgia
+  Gkioxari}, \bibinfo{person}{Piotr Doll{\'{a}}r}, {and}
+  \bibinfo{person}{Ross~B. Girshick}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Mask {R-CNN}}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1703.06870}
+  (\bibinfo{year}{2017}).
+\newblock
+\showeprint[arXiv]{1703.06870}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1703.06870}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Jiang, Liu, Lei, Wang, Yang, and Xing}{Jiang
+  et~al\mbox{.}}{2017}]%
+        {huawei-wifi}
+\bibfield{author}{\bibinfo{person}{Weipeng Jiang}, \bibinfo{person}{Yongjun
+  Liu}, \bibinfo{person}{Yun Lei}, \bibinfo{person}{Kaiyao Wang},
+  \bibinfo{person}{Hui Yang}, {and} \bibinfo{person}{Zhihao Xing}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{For Better CSI Fingerprinting Based Localization: A
+  Novel Phase Sanitization Method and a Distance Metric}. In
+  \bibinfo{booktitle}{\emph{2017 IEEE 85th Vehicular Technology Conference (VTC
+  Spring)}}. \bibinfo{pages}{1--7}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/VTCSpring.2017.8108351}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kefayati, Pourahmadi, and Aghaeinia}{Kefayati
+  et~al\mbox{.}}{2020}]%
+        {wi2vi}
+\bibfield{author}{\bibinfo{person}{Mohammad~Hadi Kefayati},
+  \bibinfo{person}{Vahid Pourahmadi}, {and} \bibinfo{person}{Hassan
+  Aghaeinia}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Wi2Vi: Generating Video Frames from WiFi {CSI}
+  Samples}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/2001.05842}
+  (\bibinfo{year}{2020}).
+\newblock
+\showeprint[arXiv]{2001.05842}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2001.05842}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kocabas, Athanasiou, and Black}{Kocabas
+  et~al\mbox{.}}{2020}]%
+        {vibe}
+\bibfield{author}{\bibinfo{person}{Muhammed Kocabas}, \bibinfo{person}{Nikos
+  Athanasiou}, {and} \bibinfo{person}{Michael~J. Black}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{VIBE: Video Inference for Human Body Pose and Shape
+  Estimation}.
+\newblock
+\newblock
+\showeprint[arxiv]{1912.05656}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Ledergerber and D’Andrea}{Ledergerber and
+  D’Andrea}{2019}]%
+        {ultra-wideband}
+\bibfield{author}{\bibinfo{person}{Anton Ledergerber} {and}
+  \bibinfo{person}{Raffaello D’Andrea}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Ultra-Wideband Angle of Arrival Estimation Based on
+  Angle-Dependent Antenna Transfer Function}.
+\newblock \bibinfo{journal}{\emph{Sensors}} \bibinfo{volume}{19},
+  \bibinfo{number}{20} (\bibinfo{year}{2019}).
+\newblock
+\showISSN{1424-8220}
+\urldef\tempurl%
+\url{https://doi.org/10.3390/s19204466}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lin, Doll{\'{a}}r, Girshick, He, Hariharan,
+  and Belongie}{Lin et~al\mbox{.}}{2016}]%
+        {Resnet-fpn}
+\bibfield{author}{\bibinfo{person}{Tsung{-}Yi Lin}, \bibinfo{person}{Piotr
+  Doll{\'{a}}r}, \bibinfo{person}{Ross~B. Girshick}, \bibinfo{person}{Kaiming
+  He}, \bibinfo{person}{Bharath Hariharan}, {and} \bibinfo{person}{Serge~J.
+  Belongie}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Feature Pyramid Networks for Object Detection}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1612.03144}
+  (\bibinfo{year}{2016}).
+\newblock
+\showeprint[arXiv]{1612.03144}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1612.03144}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lin, Maire, Belongie, Bourdev, Girshick, Hays,
+  Perona, Ramanan, Doll{\'{a}}r, and Zitnick}{Lin et~al\mbox{.}}{2014}]%
+        {coco}
+\bibfield{author}{\bibinfo{person}{Tsung{-}Yi Lin}, \bibinfo{person}{Michael
+  Maire}, \bibinfo{person}{Serge~J. Belongie}, \bibinfo{person}{Lubomir~D.
+  Bourdev}, \bibinfo{person}{Ross~B. Girshick}, \bibinfo{person}{James Hays},
+  \bibinfo{person}{Pietro Perona}, \bibinfo{person}{Deva Ramanan},
+  \bibinfo{person}{Piotr Doll{\'{a}}r}, {and} \bibinfo{person}{C.~Lawrence
+  Zitnick}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Microsoft {COCO:} Common Objects in Context}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1405.0312}
+  (\bibinfo{year}{2014}).
+\newblock
+\showeprint[arXiv]{1405.0312}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1405.0312}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Long, Shelhamer, and Darrell}{Long
+  et~al\mbox{.}}{2014}]%
+        {FCN}
+\bibfield{author}{\bibinfo{person}{Jonathan Long}, \bibinfo{person}{Evan
+  Shelhamer}, {and} \bibinfo{person}{Trevor Darrell}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Fully Convolutional Networks for Semantic
+  Segmentation}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1411.4038}
+  (\bibinfo{year}{2014}).
+\newblock
+\showeprint[arXiv]{1411.4038}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1411.4038}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Maturana and Scherer}{Maturana and
+  Scherer}{2015}]%
+        {voxnet}
+\bibfield{author}{\bibinfo{person}{Daniel Maturana} {and}
+  \bibinfo{person}{Sebastian Scherer}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{VoxNet: A 3D Convolutional Neural Network for
+  real-time object recognition}. In \bibinfo{booktitle}{\emph{2015 IEEE/RSJ
+  International Conference on Intelligent Robots and Systems (IROS)}}.
+  \bibinfo{pages}{922--928}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/IROS.2015.7353481}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Neverova, Novotny, Khalidov, Szafraniec,
+  Labatut, and Vedaldi}{Neverova et~al\mbox{.}}{2020}]%
+        {ContinuousSurfaceEmbeddings}
+\bibfield{author}{\bibinfo{person}{Natalia Neverova}, \bibinfo{person}{David
+  Novotny}, \bibinfo{person}{Vasil Khalidov}, \bibinfo{person}{Marc
+  Szafraniec}, \bibinfo{person}{Patrick Labatut}, {and} \bibinfo{person}{Andrea
+  Vedaldi}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Continuous Surface Embeddings}.
+\newblock \bibinfo{journal}{\emph{Advances in Neural Information Processing
+  Systems}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Redmon and Farhadi}{Redmon and
+  Farhadi}{2018}]%
+        {yolov3}
+\bibfield{author}{\bibinfo{person}{Joseph Redmon} {and} \bibinfo{person}{Ali
+  Farhadi}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{title}{YOLOv3: An Incremental Improvement}.
+\newblock
+\newblock
+\showeprint[arxiv]{1804.02767}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Ren, He, Girshick, and Sun}{Ren
+  et~al\mbox{.}}{2015a}]%
+        {region_proposal}
+\bibfield{author}{\bibinfo{person}{Shaoqing Ren}, \bibinfo{person}{Kaiming He},
+  \bibinfo{person}{Ross~B. Girshick}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2015}\natexlab{a}.
+\newblock \showarticletitle{Faster {R-CNN:} Towards Real-Time Object Detection
+  with Region Proposal Networks}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1506.01497}
+  (\bibinfo{year}{2015}).
+\newblock
+\showeprint[arXiv]{1506.01497}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1506.01497}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ren, He, Girshick, and Sun}{Ren
+  et~al\mbox{.}}{2015b}]%
+        {Faster-RCNN}
+\bibfield{author}{\bibinfo{person}{Shaoqing Ren}, \bibinfo{person}{Kaiming He},
+  \bibinfo{person}{Ross~B. Girshick}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2015}\natexlab{b}.
+\newblock \showarticletitle{Faster {R-CNN:} Towards Real-Time Object Detection
+  with Region Proposal Networks}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1506.01497}
+  (\bibinfo{year}{2015}).
+\newblock
+\showeprint[arXiv]{1506.01497}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1506.01497}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Saito, , Huang, Natsume, Morishima, Kanazawa,
+  and Li}{Saito et~al\mbox{.}}{2019}]%
+        {pifu}
+\bibfield{author}{\bibinfo{person}{Shunsuke Saito}, \bibinfo{person}{},
+  \bibinfo{person}{Zeng Huang}, \bibinfo{person}{Ryota Natsume},
+  \bibinfo{person}{Shigeo Morishima}, \bibinfo{person}{Angjoo Kanazawa}, {and}
+  \bibinfo{person}{Hao Li}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{PIFu: Pixel-Aligned Implicit Function for
+  High-Resolution Clothed Human Digitization}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1905.05172}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sen, Radunovic, Choudhury, and Minka}{Sen
+  et~al\mbox{.}}{2012}]%
+        {phase_sanitized}
+\bibfield{author}{\bibinfo{person}{Souvik Sen}, \bibinfo{person}{Bo\v{z}idar
+  Radunovic}, \bibinfo{person}{Romit~Roy Choudhury}, {and} \bibinfo{person}{Tom
+  Minka}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{You Are Facing the Mona Lisa: Spot Localization
+  Using PHY Layer Information}. In \bibinfo{booktitle}{\emph{Proceedings of the
+  10th International Conference on Mobile Systems, Applications, and Services}}
+  (Low Wood Bay, Lake District, UK) \emph{(\bibinfo{series}{MobiSys '12})}.
+  \bibinfo{publisher}{Association for Computing Machinery},
+  \bibinfo{address}{New York, NY, USA}, \bibinfo{pages}{183–196}.
+\newblock
+\showISBNx{9781450313018}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2307636.2307654}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Shapovalov, Novotn{\'{y}}, Graham, Labatut,
+  and Vedaldi}{Shapovalov et~al\mbox{.}}{2021}]%
+        {DensePose3D}
+\bibfield{author}{\bibinfo{person}{Roman Shapovalov}, \bibinfo{person}{David
+  Novotn{\'{y}}}, \bibinfo{person}{Benjamin Graham}, \bibinfo{person}{Patrick
+  Labatut}, {and} \bibinfo{person}{Andrea Vedaldi}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{DensePose 3D: Lifting Canonical Surface Maps of
+  Articulated Objects to the Third Dimension}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/2109.00033}
+  (\bibinfo{year}{2021}).
+\newblock
+\showeprint[arXiv]{2109.00033}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2109.00033}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Sheng, Xiao, Sha, and Sun}{Sheng
+  et~al\mbox{.}}{2020}]%
+        {Sheng2020}
+\bibfield{author}{\bibinfo{person}{B. Sheng}, \bibinfo{person}{F. Xiao},
+  \bibinfo{person}{L. Sha}, {and} \bibinfo{person}{L. Sun}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Deep Spatial–Temporal Model Based Cross-Scene
+  Action Recognition Using Commodity WiFi}.
+\newblock \bibinfo{journal}{\emph{IEEE Internet of Things Journal}}
+  \bibinfo{volume}{7} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Soltanaghaei, Kalyanaraman, and
+  Whitehouse}{Soltanaghaei et~al\mbox{.}}{2018a}]%
+        {Decimeter_Level_WiFi_Localization}
+\bibfield{author}{\bibinfo{person}{Elahe Soltanaghaei},
+  \bibinfo{person}{Avinash Kalyanaraman}, {and} \bibinfo{person}{Kamin
+  Whitehouse}.} \bibinfo{year}{2018}\natexlab{a}.
+\newblock \showarticletitle{Multipath Triangulation: Decimeter-Level WiFi
+  Localization and Orientation with a Single Unaided Receiver}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 16th Annual International
+  Conference on Mobile Systems, Applications, and Services}} (Munich, Germany)
+  \emph{(\bibinfo{series}{MobiSys '18})}. \bibinfo{publisher}{Association for
+  Computing Machinery}, \bibinfo{address}{New York, NY, USA},
+  \bibinfo{pages}{376–388}.
+\newblock
+\showISBNx{9781450357203}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3210240.3210347}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Soltanaghaei, Kalyanaraman, and
+  Whitehouse}{Soltanaghaei et~al\mbox{.}}{2018b}]%
+        {Soltanaghaei2018}
+\bibfield{author}{\bibinfo{person}{Elahe Soltanaghaei},
+  \bibinfo{person}{Avinash Kalyanaraman}, {and} \bibinfo{person}{Kamin
+  Whitehouse}.} \bibinfo{year}{2018}\natexlab{b}.
+\newblock \showarticletitle{Multipath Triangulation: Decimeter-level WiFi
+  Localization and Orientation with a Single Unaided Receiver}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 16th Annual International
+  Conference on Mobile Systems, Applications, and Services}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sun, Bao, Liu, Fu, Black, and Mei}{Sun
+  et~al\mbox{.}}{2021}]%
+        {ROMP}
+\bibfield{author}{\bibinfo{person}{Yu Sun}, \bibinfo{person}{Qian Bao},
+  \bibinfo{person}{Wu Liu}, \bibinfo{person}{Yili Fu},
+  \bibinfo{person}{Michael~J. Black}, {and} \bibinfo{person}{Tao Mei}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{title}{Monocular, One-stage, Regression of Multiple 3D
+  People}.
+\newblock
+\newblock
+\showeprint[arxiv]{2008.12272}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Wang, Song, Zhang, Han, and Huang}{Wang
+  et~al\mbox{.}}{2019a}]%
+        {WangSong2019}
+\bibfield{author}{\bibinfo{person}{Fei Wang}, \bibinfo{person}{Yunpeng Song},
+  \bibinfo{person}{Jimuyang Zhang}, \bibinfo{person}{Jinsong Han}, {and}
+  \bibinfo{person}{Dong Huang}.} \bibinfo{year}{2019}\natexlab{a}.
+\newblock \showarticletitle{Temporal Unet: Sample Level Human Action
+  Recognition using WiFi}.
+\newblock \bibinfo{journal}{\emph{arXiv Preprint arXiv:1904.11953}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Zhou, Panev, Han, and Huang}{Wang
+  et~al\mbox{.}}{2019b}]%
+        {Person-in-wifi}
+\bibfield{author}{\bibinfo{person}{Fei Wang}, \bibinfo{person}{Sanping Zhou},
+  \bibinfo{person}{Stanislav Panev}, \bibinfo{person}{Jinsong Han}, {and}
+  \bibinfo{person}{Dong Huang}.} \bibinfo{year}{2019}\natexlab{b}.
+\newblock \showarticletitle{Person-in-WiFi: Fine-grained Person Perception
+  using WiFi}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1904.00276}
+  (\bibinfo{year}{2019}).
+\newblock
+\showeprint[arXiv]{1904.00276}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1904.00276}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wang, Zhou, Panev, Han, and Huang}{Wang
+  et~al\mbox{.}}{2019c}]%
+        {Wanghuang2019}
+\bibfield{author}{\bibinfo{person}{Fei Wang}, \bibinfo{person}{Sanping Zhou},
+  \bibinfo{person}{Stanislav Panev}, \bibinfo{person}{Jinsong Han}, {and}
+  \bibinfo{person}{Dong Huang}.} \bibinfo{year}{2019}\natexlab{c}.
+\newblock \showarticletitle{Person-in-WiFi: Fine-grained Person Perception
+  using WiFi}. In \bibinfo{booktitle}{\emph{ICCV}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Liu, Liao, Ye, Liu, and Wang}{Wang
+  et~al\mbox{.}}{2018}]%
+        {lidar-3d}
+\bibfield{author}{\bibinfo{person}{Zhe Wang}, \bibinfo{person}{Yang Liu},
+  \bibinfo{person}{Qinghai Liao}, \bibinfo{person}{Haoyang Ye},
+  \bibinfo{person}{Ming Liu}, {and} \bibinfo{person}{Lujia Wang}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Characterization of a RS-LiDAR for 3D Perception}.
+  In \bibinfo{booktitle}{\emph{2018 IEEE 8th Annual International Conference on
+  CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)}}.
+  \bibinfo{pages}{564--569}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/CYBER.2018.8688235}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wei, Ramakrishna, Kanade, and Sheikh}{Wei
+  et~al\mbox{.}}{2016}]%
+        {convolutional-pose}
+\bibfield{author}{\bibinfo{person}{Shih-En Wei}, \bibinfo{person}{Varun
+  Ramakrishna}, \bibinfo{person}{Takeo Kanade}, {and} \bibinfo{person}{Yaser
+  Sheikh}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \bibinfo{title}{Convolutional Pose Machines}.
+\newblock
+\newblock
+\showeprint[arxiv]{1602.00134}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Xiao, Wu, and Wei}{Xiao et~al\mbox{.}}{2018}]%
+        {simple_tracking}
+\bibfield{author}{\bibinfo{person}{Bin Xiao}, \bibinfo{person}{Haiping Wu},
+  {and} \bibinfo{person}{Yichen Wei}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{title}{Simple Baselines for Human Pose Estimation and
+  Tracking}.
+\newblock
+\newblock
+\showeprint[arxiv]{1804.06208}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Xu, Zhu, and Tung}{Xu et~al\mbox{.}}{2019}]%
+        {DenseRac}
+\bibfield{author}{\bibinfo{person}{Yuanlu Xu}, \bibinfo{person}{Song{-}Chun
+  Zhu}, {and} \bibinfo{person}{Tony Tung}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{DenseRaC: Joint 3D Pose and Shape Estimation by
+  Dense Render-and-Compare}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1910.00116}
+  (\bibinfo{year}{2019}).
+\newblock
+\showeprint[arXiv]{1910.00116}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1910.00116}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Xue, Ju, Miao, Wang, Wang, Zhang, and Su}{Xue
+  et~al\mbox{.}}{2021}]%
+        {xue2021mmmesh}
+\bibfield{author}{\bibinfo{person}{Hongfei Xue}, \bibinfo{person}{Yan Ju},
+  \bibinfo{person}{Chenglin Miao}, \bibinfo{person}{Yijiang Wang},
+  \bibinfo{person}{Shiyang Wang}, \bibinfo{person}{Aidong Zhang}, {and}
+  \bibinfo{person}{Lu Su}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{mmMesh: towards 3D real-time dynamic human mesh
+  construction using millimeter-wave}. In \bibinfo{booktitle}{\emph{Proceedings
+  of the 19th Annual International Conference on Mobile Systems, Applications,
+  and Services}}. \bibinfo{pages}{269--282}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yao, Fang, Wu, Feng, and Li}{Yao
+  et~al\mbox{.}}{2019}]%
+        {densebody}
+\bibfield{author}{\bibinfo{person}{Pengfei Yao}, \bibinfo{person}{Zheng Fang},
+  \bibinfo{person}{Fan Wu}, \bibinfo{person}{Yao Feng}, {and}
+  \bibinfo{person}{Jiwei Li}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{DenseBody: Directly Regressing Dense 3D Human Pose
+  and Shape From a Single Color Image}.
+\newblock
+\newblock
+\showeprint[arxiv]{1903.10153}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Cao, Lu, Ouyang, and Sun}{Zhang
+  et~al\mbox{.}}{2020}]%
+        {3d-from-dense-parts}
+\bibfield{author}{\bibinfo{person}{Hongwen Zhang}, \bibinfo{person}{Jie Cao},
+  \bibinfo{person}{Guo Lu}, \bibinfo{person}{Wanli Ouyang}, {and}
+  \bibinfo{person}{Zhenan Sun}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Learning 3D Human Shape and Pose from Dense Body
+  Parts}.
+\newblock
+\newblock
+\showeprint[arxiv]{1912.13344}~[cs.CV]
+
+
+\bibitem[\protect\citeauthoryear{Zhao, Li, Alsheikh, Tian, Zhao, Torralba, and
+  Katabi}{Zhao et~al\mbox{.}}{2018}]%
+        {RF-Pose}
+\bibfield{author}{\bibinfo{person}{Mingmin Zhao}, \bibinfo{person}{Tianhong
+  Li}, \bibinfo{person}{Mohammad~Abu Alsheikh}, \bibinfo{person}{Yonglong
+  Tian}, \bibinfo{person}{Hang Zhao}, \bibinfo{person}{Antonio Torralba}, {and}
+  \bibinfo{person}{Dina Katabi}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Through-Wall Human Pose Estimation Using Radio
+  Signals}. In \bibinfo{booktitle}{\emph{2018 IEEE/CVF Conference on Computer
+  Vision and Pattern Recognition}}. \bibinfo{pages}{7356--7365}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/CVPR.2018.00768}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Zhou, Krähenbühl, Aubry, Huang, and
+  Efros}{Zhou et~al\mbox{.}}{2016}]%
+        {zhou2016learning}
+\bibfield{author}{\bibinfo{person}{Tinghui Zhou}, \bibinfo{person}{Philipp
+  Krähenbühl}, \bibinfo{person}{Mathieu Aubry}, \bibinfo{person}{Qixing
+  Huang}, {and} \bibinfo{person}{Alexei~A. Efros}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \bibinfo{title}{Learning Dense Correspondence via 3D-guided Cycle
+  Consistency}.
+\newblock
+\newblock
+\showeprint[arxiv]{1604.05383}~[cs.CV]
+
+
+\end{thebibliography}
